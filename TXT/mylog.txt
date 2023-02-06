@@ -2,5 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L00 General, etc.
-ZCZC W00 10 L03 Create os222 GitHub repository
+ZCZC W00 10 L03 Create os231 GitHub repository
+ZCZC W00 10 L03 Create TXT/mylog.txt, LICENSE.md and README.md
+ZCZC W00 10 L03 Deploy Github Pages eugeniusms
 ZCZC W00 20 L01 Join Scele course (OS-GNP2023)
+ZCZC W00 10 L01 Submit registration form OS-231 on Google Form
+ZCZC W00 100 L99 Face-to-face lecture
