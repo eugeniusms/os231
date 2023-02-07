@@ -10,4 +10,7 @@ ZCZC W00 10 L01 Submit registration form OS-231 on Google Form
 ZCZC W00 10 L06 Read "What defines an Operating System?" by Rahmat M. Samik Ibrahim
 ZCZC W00 10 L06 Open lecture references
 ZCZC W00 30 L06 GSGS about microchip companies
-ZCZC W00 100 L99 Face-to-face lecture
+ZCZC W00 100 L02 Face-to-face lecture
+ZCZC W00 10 L41 Update TXT/mylog.txt
+ZCZC W00 180 L23 Learning Shell
+ZCZC W00 20 L32 Watch Google Database Building
