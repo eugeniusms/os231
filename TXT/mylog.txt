@@ -15,3 +15,4 @@ ZCZC W00 10 L41 Update TXT/mylog.txt
 ZCZC W00 180 L23 Learning Shell
 ZCZC W00 20 L32 Watch Google Database Building
 ZCZC W00 100 L02 Face-to-face lecture
+ZCZC W00 30 L64 Helping a friend create github pages and repository
