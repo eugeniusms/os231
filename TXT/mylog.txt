@@ -17,3 +17,5 @@ ZCZC W00 20 L32 Watch Google Database Building
 ZCZC W00 100 L02 Face-to-face lecture
 ZCZC W00 30 L64 Helping a friend create github pages and repository
 ZCZC W00 20 L06 Read some articles about web scraping 
+ZCZC W00 360 L24 Create web scrap script and manage the data to database
+ZCZC W00 20 L24 Create GUI functionality from scrap data
