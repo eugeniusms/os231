@@ -5,6 +5,7 @@ ZCZC W00 20 L00 General, etc.
 ZCZC W00 10 L03 Create os231 GitHub repository
 ZCZC W00 10 L03 Create TXT/mylog.txt, LICENSE.md and README.md
 ZCZC W00 10 L03 Deploy Github Pages eugeniusms
+ZCZC W00 60 L03 Finish Weekly Assignments - Week 00
 ZCZC W00 20 L01 Join Scele course (OS-GNP2023)
 ZCZC W00 10 L01 Submit registration form OS-231 on Google Form
 ZCZC W00 10 L06 Read "What defines an Operating System?" by Rahmat M. Samik Ibrahim
@@ -19,3 +20,7 @@ ZCZC W00 30 L64 Helping a friend create github pages and repository
 ZCZC W00 20 L06 Read some articles about web scraping 
 ZCZC W00 360 L24 Create web scrap script and manage the data to database
 ZCZC W00 20 L24 Create GUI functionality from scrap data
+ZCZC W00 30 L05 Read Silbershartz's book
+ZCZC W00 10 L05 Quiz 01 Week 01
+ZCZC W00 20 L01 Check the class forum Scele
+ZCZC W00 10 L03 Update GitHub repository os231
