@@ -18,15 +18,18 @@ a {
 a:hover {
   color: white;
 }
+.mario {
+  background-color: #101010;
+}
+.mario>a {
+  color: white;
+}
 </style>
-<span style="color:#808080; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
+<span style="color:white; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
-[TARBALL]({{ https://os.vlsm.org/Log/eugeniusms.tar.bz2.txt }}) ---
-[GITHUB]({{ https://github.com/eugeniusms/os231 }})
+<div class="mario">
+[HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | [TIPS]({{ site.baseurl }}/TIPS/) | [LOG]({{ site.baseurl }}/TXT/mylog.txt) | [TARBALL]({{ https://os.vlsm.org/Log/eugeniusms.tar.bz2.txt }}) | [GITHUB]({{ https://github.com/eugeniusms/os231 }})
+</div>
 <br>
 <hr>
 
@@ -64,6 +67,6 @@ data such as phone number, email, date of birth, address, organization, and more
 
 <br>
 <hr>
-&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.4
+&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.5
 <hr>
 <br>
