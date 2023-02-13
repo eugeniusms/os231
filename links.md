@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 <style>
-html {
+html, *, body {
   background-color: hsl(0, 10%, 10%);
   line-height: 120%;
   color: white;
@@ -64,6 +64,6 @@ data such as phone number, email, date of birth, address, organization, and more
 
 <br>
 <hr>
-&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.3
+&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.4
 <hr>
 <br>
