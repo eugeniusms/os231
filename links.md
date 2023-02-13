@@ -2,12 +2,24 @@
 permalink: LINKS/
 ---
 <style>
-* {
-  background-color: black;
+html {
+  background-color: hsl(0, 10%, 10%);
+  line-height: 120%;
+  color: white;
+  font-family: monospace, courier;
+}
+h1, h2 {
+  color: hsl(100, 50%, 50%);
+}
+a {
+  color: #a0a0a0;
+  text-decoration: underline;
+}
+a:hover {
   color: white;
 }
 </style>
-<span style="color:red; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
+<span style="color:#808080; font-weight:bold; font-size:larger;">By Eugenius Mario Situmorang</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -52,6 +64,6 @@ data such as phone number, email, date of birth, address, organization, and more
 
 <br>
 <hr>
-&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.2
+&copy; 2023 --- Eugenius Mario Situmorang  --- Version: 1.3
 <hr>
 <br>
