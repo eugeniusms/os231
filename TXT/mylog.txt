@@ -32,3 +32,4 @@ ZCZC W01 20 L11 Pull from or Push to GitHub with SSH
 ZCZC W01 10 L03 Update mylog.txt
 ZCZC W01 60 L11 Add index.md links.md and myupdate.txt to GitHub
 ZCZC W01 230 L11 Finish Weekly Assignment - Week 01
+ZCZC W01 60 L11 Style index.md links.md and tips.md
