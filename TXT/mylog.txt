@@ -33,3 +33,6 @@ ZCZC W01 10 L03 Update mylog.txt
 ZCZC W01 60 L11 Add index.md links.md and myupdate.txt to GitHub
 ZCZC W01 230 L11 Finish Weekly Assignment - Week 01
 ZCZC W01 60 L11 Style index.md links.md and tips.md
+ZCZC W01 100 L02 Face-to-face lecture
+ZCZC W01 180 L11 Read some articles about Linux
+ZCZC W01 30 L03 Update links.md
