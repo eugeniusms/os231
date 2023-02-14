@@ -34,15 +34,15 @@ a:hover {
 
 ## WEEK 1
 
-1. [The Beginners Guide to Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
-This article contains data security guidelines, such as an explanation of 
-data security from each level, for example operating 
-systems and browsers affect data security as well.
+1. [Regular Expressions Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
+Halaman berisi daftar tabel tentang RegEx (Regular Expression) yang ditampilkan
+dalam beberapa bagian. Seperti anchors, quantifiers, dan lain-lainnya, banyak hal masuk
+ke dalam cheat sheet ini untuk menyingkat daftar agar kita dengan mudah menemukannya.
 
-2. [Complete Beginners Guide to Internet Safety Privacy](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)<br>
-This article contains safe internet guidelines, such as using a browser 
-and what to keep private such as for example personal photos and videos, personal 
-data such as phone number, email, date of birth, address, organization, and more
+2. [Sheel Scripting Tutorial](https://www.shellscript.sh/)<br>
+Terdapat daftar tutorial yang dijalankan secara perlahan pada tiap halaman. Tiap halaman
+menampilkan tutorial yang memerlukan tombol navigasi di bagian bawah artikel untuk menuju
+tutorial selanjutnya tentang Shell. Shell digunakan sebagai bahasa scripting pada kuliah ini.
 
 3. [Cara Menggunakan GitHub & Perintah Dasar GitHub](https://www.hostinger.co.id/tutorial/cara-menggunakan-github-perintah-dasar-github)<br>
 Artikel ini berisi daftar list perintah git dasar seperti commit, push, pull,
