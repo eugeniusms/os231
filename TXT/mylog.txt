@@ -37,3 +37,7 @@ ZCZC W01 100 L02 Face-to-face lecture
 ZCZC W01 180 L11 Read some articles about Linux
 ZCZC W01 30 L03 Update links.md
 ZCZC W01 40 L05 Finish Week 01 Quiz 02
+ZCZC W02 30 L12 Reading Watchings and Demos
+ZCZC W02 30 L12 Set GnuPG export my public key
+ZCZC W02 20 L12 Review 5 LINKS and update myrank
+ZCZC W02 100 L02 Face-to-face lecture
