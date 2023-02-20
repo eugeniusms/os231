@@ -41,3 +41,4 @@ ZCZC W02 30 L12 Reading Watchings and Demos
 ZCZC W02 30 L12 Set GnuPG export my public key
 ZCZC W02 20 L12 Review 5 LINKS and update myrank
 ZCZC W02 100 L02 Face-to-face lecture
+ZCZC W02 30 L12 Backup SSH and GPG Keys
