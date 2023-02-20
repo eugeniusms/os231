@@ -86,51 +86,51 @@ and powerful text editor</i> dan Nano adalah versi <i>lightweight, simplified ed
 
 ## WEEK 2
 
-11. [Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)
+11. [Cyber Security and Privacy](https://osp4diss.vlsm.org/osp-133.html)<br>
 Artikel ini merupakan artikel dari perkuliahan Operating System Fasilkom UI. Terdapat 
 banyak list link yang dapat digunakan untuk mempelajari tentang cyber security dan privacy.
 Beberapa link menampilkan video dan beberapa diantaranya menampilkan artikel tulisan.
 
-12. [The Beginner's Guide to Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)
+12. [The Beginner's Guide to Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
 Artikel ini berisi daftar list tentang cara untuk meningkatkan privasi kita di internet.
 Artikel ini menampilkan beberapa cara untuk meningkatkan privasi kita di internet seperti 
 menggunakan VPN, mengubah DNS, dan lain-lain.
 
 
-13. [Beginner's Guide to Internet Safety and Privacy](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)
+13. [Beginner's Guide to Internet Safety and Privacy](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)<br>
 Artikel ini berisi daftar list tentang cara untuk meningkatkan privasi kita di internet.
 Artikel ini menampilkan beberapa cara untuk meningkatkan privasi kita di internet seperti
 menggunakan VPN, mengubah DNS, dan lain-lain.
 
-14. [Apa Itu SSH dan Bagaimana Cara Kerjanya?](https://www.niagahoster.co.id/blog/apa-itu-ssh/)
+14. [Apa Itu SSH dan Bagaimana Cara Kerjanya?](https://www.niagahoster.co.id/blog/apa-itu-ssh/)<br>
 Artikel ini menjelaskan tentang apa itu SSH dan bagaimana cara kerjanya. SSH merupakan
 suatu protokol yang digunakan untuk menghubungkan antara dua komputer. Cara kerja SSH 
 adalah dengan mengenkripsi data yang dikirimkan antara dua komputer.
 
-15. [Belajar Memakai GNU Privacy Guard (GnuPG/GPG)](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
+15. [Belajar Memakai GNU Privacy Guard (GnuPG/GPG)](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)<br>
 Artikel ini menjelaskan tentang apa itu GnuPG dan bagaimana cara kerjanya. GnuPG merupakan
 suatu program yang digunakan untuk mengenkripsi data. Cara kerja GnuPG adalah dengan
 menggunakan algoritma RSA.
 
-16. [Wikipedia - RSA](https://id.wikipedia.org/wiki/RSA)
+16. [Wikipedia - RSA](https://id.wikipedia.org/wiki/RSA)<br>
 Artikel ini menjelaskan tentang apa itu RSA dan bagaimana cara kerjanya. RSA merupakan
 suatu algoritma yang digunakan untuk mengenkripsi data. Cara kerja RSA adalah dengan
 menggunakan kunci publik dan kunci privat.
 
-17. [What is Passphrase and How to Use It?](https://www.ssh.com/academy/ssh/passphrase)
+17. [What is Passphrase and How to Use It?](https://www.ssh.com/academy/ssh/passphrase)<br>
 Artikel ini menjelaskan tentang apa itu passphrase dan bagaimana cara kerjanya. Passphrase
 adalah suatu kata sandi yang digunakan untuk mengenkripsi kunci privat. Cara kerja passphrase
 adalah dengan mengenkripsi kunci privat dengan kata sandi yang kita buat.
 
-18. [Create a tar.xz in One Command](https://stackoverflow.com/questions/18855850/create-a-tar-xz-in-one-command)
+18. [Create a tar.xz in One Command](https://stackoverflow.com/questions/18855850/create-a-tar-xz-in-one-command)<br>
 Artikel ini menjelaskan tentang cara membuat tar.xz dengan menggunakan satu command.
 Command yang digunakan adalah `tar -cJf archive.tar.xz directory/`
 
-19. [How to Armored Encrypt TARBALL](https://osp4diss.vlsm.org/W02-09.html)
+19. [How to Armored Encrypt TARBALL](https://osp4diss.vlsm.org/W02-09.html)<br>
 Artikel ini menjelaskan tentang cara mengenkripsi tarball dengan menggunakan GnuPG.
 Command yang digunakan adalah `gpg --armor --output archive.tar.xz.gpg --encrypt archive.tar.xz`
 
-20. [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/)
+20. [SHASUM Command on Linux](https://linuxhint.com/shasum-linux/)<br>
 Artikel ini menjelaskan tentang apa itu SHASUM dan bagaimana cara kerjanya. SHASUM
 adalah suatu command yang digunakan untuk menghasilkan hash dari suatu file. Cara kerja
 SHASUM adalah dengan menghasilkan hash dari suatu file dengan menggunakan algoritma SHA-1.
