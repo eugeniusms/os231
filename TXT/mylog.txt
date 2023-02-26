@@ -47,3 +47,6 @@ ZCZC W02 240 L12 Read some articles to LINKS
 ZCZC W02 60 L12 Update links.md
 ZCZC W02 240 L12 Finish Weekly ASsignment - Week 02
 ZCZC W02 100 L02 Face-to-face lecture
+ZCZC W02 60 L11 Read Silberschatz
+ZCZC W02 10 L05 Finish Week 02 Quiz 01
+ZCZC W02 120 L05 Finish Week 02 Quiz 02
