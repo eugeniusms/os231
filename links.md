@@ -137,6 +137,68 @@ SHASUM adalah dengan menghasilkan hash dari suatu file dengan menggunakan algori
 
 ## WEEK 3
 
+21. [What is a Firewall?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-firewall/)<br>
+Artikel ini menjelaskan tentang apa itu firewall dan bagaimana cara kerjanya. Firewall
+adalah suatu sistem yang digunakan untuk memfilter paket-paket yang masuk dan keluar dari
+suatu jaringan. Cara kerja firewall adalah dengan memfilter paket-paket yang masuk dan
+keluar dari suatu jaringan dengan menggunakan aturan-aturan yang telah ditentukan.
+
+22. [What is a Proxy Server?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-proxy-server/)<br>
+Artikel ini menjelaskan tentang apa itu proxy server dan bagaimana cara kerjanya. Proxy
+server adalah suatu server yang berfungsi sebagai perantara antara client dan server.
+Cara kerja proxy server adalah dengan mengirimkan request dari client ke server dan
+mengirimkan response dari server ke client.
+
+23. [What is a VPN?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-vpn/)<br>
+Artikel ini menjelaskan tentang apa itu VPN dan bagaimana cara kerjanya. VPN merupakan
+suatu jaringan yang digunakan untuk menghubungkan antara dua jaringan. Cara kerja VPN
+adalah dengan menghubungkan antara dua jaringan dengan menggunakan jaringan publik.
+
+24. [What is a NAT?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-nat/)<br>
+Artikel ini menjelaskan tentang apa itu NAT dan bagaimana cara kerjanya. NAT merupakan
+suatu teknik yang digunakan untuk mengubah alamat IP dari suatu host. Cara kerja NAT
+adalah dengan mengubah alamat IP dari suatu host dengan menggunakan alamat IP yang
+diberikan oleh router.
+
+25. [What is a DMZ?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dmz/)<br>
+Artikel ini menjelaskan tentang apa itu DMZ dan bagaimana cara kerjanya. DMZ merupakan
+suatu jaringan yang digunakan untuk menghubungkan antara jaringan internal dan jaringan
+eksternal. Cara kerja DMZ adalah dengan menghubungkan antara jaringan internal dan
+jaringan eksternal dengan menggunakan jaringan publik.
+
+26. [What is a DNS?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns/)<br>
+Artikel ini menjelaskan tentang apa itu DNS dan bagaimana cara kerjanya. DNS merupakan
+suatu sistem yang digunakan untuk menghubungkan antara nama domain dan alamat IP. Cara
+kerja DNS adalah dengan menghubungkan antara nama domain dan alamat IP dengan menggunakan
+DNS server.
+
+27. [What is a DNS Leak?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-leak/)<br>
+Artikel ini menjelaskan tentang apa itu DNS leak dan bagaimana cara kerjanya. DNS leak
+adalah suatu kejadian dimana DNS server yang digunakan oleh client tidak sesuai dengan
+DNS server yang digunakan oleh VPN. Cara kerja DNS leak adalah dengan mengirimkan
+request DNS ke DNS server yang digunakan oleh client.
+
+28. [What is a DNS Spoofing?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-spoofing/)<br>
+Artikel ini menjelaskan tentang apa itu DNS spoofing dan bagaimana cara kerjanya. DNS
+spoofing adalah suatu kejadian dimana DNS server yang digunakan oleh client diubah
+menjadi DNS server yang tidak diinginkan. Cara kerja DNS spoofing adalah dengan
+mengubah DNS server yang digunakan oleh client dengan menggunakan DNS server yang
+tidak diinginkan.
+
+29. [What is a DNS Hijacking?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-hijacking/)<br>
+Artikel ini menjelaskan tentang apa itu DNS hijacking dan bagaimana cara kerjanya. DNS
+hijacking adalah suatu kejadian dimana DNS server yang digunakan oleh client diubah
+menjadi DNS server yang tidak diinginkan. Cara kerja DNS hijacking adalah dengan
+mengubah DNS server yang digunakan oleh client dengan menggunakan DNS server yang
+tidak diinginkan.
+
+30. [What is a DNS Cache Poisoning?](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-cache-poisoning/)<br>
+Artikel ini menjelaskan tentang apa itu DNS cache poisoning dan bagaimana cara kerjanya.
+DNS cache poisoning adalah suatu kejadian dimana DNS server yang digunakan oleh client
+diubah menjadi DNS server yang tidak diinginkan. Cara kerja DNS cache poisoning adalah
+dengan mengubah DNS server yang digunakan oleh client dengan menggunakan DNS server
+yang tidak diinginkan.
+
 ## WEEK 4
 
 ## WEEK 5
