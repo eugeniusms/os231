@@ -60,3 +60,15 @@ ZCZC W03 40 L13 Setup New UTM Extra Virtual Disk
 ZCZC W03 100 L13 Script Download Found Error
 ZCZC W03 30 L64 Helping a friend 
 ZCZC W03 120 L13 Finish Weekly Assignments 03
+ZCZC W04 60 L11 Read Silberschatz
+ZCZC W04 100 L02 Face-to-face lectures
+ZCZC W04 30 L14 Activate os1 eugeniusms
+ZCZC W04 100 L11 Read Silberschatz
+ZCZC W04 100 L02 Face-to-face lectures
+ZCZC W04 240 L14 Reading and update LINKS
+ZCZC W04 30 L05 Check LINKS rank
+ZCZC W04 120 L24 Modify webscrapping
+ZCZC W04 180 L24 Learn Shell for cryptography
+ZCZC W04 30 L05 Pop Quiz Week 04
+ZCZC W04 20 L05 Quiz 1 Week 04
+ZCZC W04 240 L14 Finish Weekly Assignments 04
