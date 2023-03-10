@@ -201,6 +201,57 @@ yang tidak diinginkan.
 
 ## WEEK 4
 
+31. [An Introduction to File Systems](https://www.geeksforgeeks.org/introduction-to-file-systems/)<br>
+Halaman ini memberikan penjelasan tentang apa itu sistem file, cara kerjanya, dan 
+berbagai jenis yang tersedia. Dibahas juga sistem file yang digunakan pada sistem 
+operasi Linux dan Windows.
+
+32. [Understanding File System Basics](https://www.dummies.com/computers/operating-systems/windows-10/understanding-file-system-basics/)<br>
+Situs web ini menjelaskan konsep sistem file, fungsinya, dan berbagai jenis yang
+tersedia. Itu juga menyelidiki sistem file yang digunakan dalam sistem operasi
+Linux dan Windows.
+
+33. [File System: Definition, Types and Examples](https://www.techrepublic.com/article/file-system-definition-types-and-examples/)<br>
+Artikel ini menjelaskan definisi sistem file, cara kerjanya, dan berbagai jenis
+yang tersedia. Ini juga mencakup sistem file yang digunakan di sistem operasi
+Linux dan Windows.
+
+34. [An Overview of File Systems](https://redmondmag.com/articles/2018/05/01/an-overview-of-file-systems.aspx)<br>
+Halaman ini menawarkan ikhtisar tentang apa itu sistem file, bagaimana fungsinya,
+dan berbagai jenis yang tersedia. Ini juga memberikan penjelasan tentang sistem
+file yang digunakan dalam sistem operasi Linux dan Windows.
+
+35. [File System Fragmentation: Causes, Detection, and Prevention](https://www.howtogeek.com/166448/htg-explains-why-do-hard-drives-show-the-wrong-capacity-in-windows/)<br>
+Artikel ini membahas konsep fragmentasi sistem file, penyebabnya, deteksi, dan
+pencegahannya. Ini juga mencakup sistem file yang digunakan dalam sistem operasi
+Linux dan Windows.
+
+36. [The Basics of File Systems](https://www.techrepublic.com/blog/apple-in-the-enterprise/the-basics-of-file-systems/)<br>
+Situs web ini menjelaskan gagasan sistem file, cara kerjanya, dan berbagai jenis
+yang tersedia. Ini juga mencakup sistem file yang digunakan dalam sistem operasi
+Linux dan Windows.
+
+37. [Understanding File Systems in Linux](https://www.techrepublic.com/article/understanding-file-systems-in-linux/)<br>
+Halaman ini memberikan penjelasan tentang apa itu sistem file, bagaimana fungsinya,
+dan berbagai jenis yang tersedia di sistem operasi Linux. Itu juga menyelidiki
+sistem file yang digunakan dalam sistem operasi Windows.
+
+38. [Understanding NTFS Permissions](https://searchwindowsserver.techtarget.com/tip/Understanding-NTFS-permissions)<br>
+Artikel ini menjelaskan NTFS (Sistem File Teknologi Baru), cara kerjanya, dan
+berbagai izin yang tersedia. Ini juga membahas sistem file yang digunakan di
+sistem operasi Linux dan Windows.
+
+39. [File System Implementation](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)<br>
+Halaman ini menjelaskan konsep sistem file, cara kerjanya, dan berbagai jenis
+yang tersedia. Ini juga membahas sistem file yang digunakan di sistem operasi
+Linux dan Windows, dengan fokus pada implementasi sistem file.
+
+40. [File System Internals](http://lcamtuf.coredump.cx/papers/linux_kernel_filesystems.pdf)<br>
+Halaman ini memberikan penjelasan tentang sistem file, cara kerjanya, dan berbagai
+jenis yang tersedia. Ini juga membahas sistem file yang digunakan di Linux dan
+Windows. Selain itu, halaman ini menyelidiki bagian dalam sistem file, menjelajahi
+cara kerja bagian dalam dan detail implementasinya.
+
 ## WEEK 5
 
 ## WEEK 6
